@@ -1,0 +1,50 @@
+{
+  "sceneName": "success",
+  "data": {
+    "posts": [
+      {
+        "id": 1,
+        "title": "His mother had always taught him",
+        "body": "His mother had always taught him not to ever think of himself as better than others. He'd tried to live by this motto. He never looked down on those who were less fortunate or who had less money than him. But the stupidity of the group of people he was talking to made him change his mind.",
+        "tags": [
+          "history",
+          "american",
+          "crime"
+        ],
+        "reactions": {
+          "likes": 192,
+          "dislikes": 25
+        },
+        "views": 305,
+        "userId": 121
+      },
+      {
+        "id": 2,
+        "title": "The stranger officiating the wedding",
+        "body": "The stranger officiating the wedding had a funny way of making the bride and groom feel comfortable. He had a few tricks up his sleeve that caused everyone to laugh. The ceremony was beautiful and all the guests had a good time.",
+        "tags": [
+          "history",
+          "american",
+          "crime"
+        ],
+        "reactions": {
+          "likes": 192,
+          "dislikes": 25
+        },
+        "views": 305,
+        "userId": 121
+      }
+    ],
+    "total": 2,
+    "skip": 0,
+    "limit": 10
+  },
+  "interfaceUniqId": "096a8f47-4fd6-4e30-a7d7-8e43cddb2bb3",
+  "contextConfig": {
+    "responseDelay": 0,
+    "responseStatus": 200,
+    "responseHeaders": {}
+  },
+  "uniqId": "7af53748-8ecf-4ac8-86fc-669d6ab042dd",
+  "format": "json"
+}

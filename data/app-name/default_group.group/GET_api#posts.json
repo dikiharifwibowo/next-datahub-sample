@@ -1,0 +1,11 @@
+{
+  "protocol": "http",
+  "pathname": "api/posts",
+  "method": "GET",
+  "projectUniqId": "2c5d1a21-ab25-48f1-9130-dbb0a9c2e891",
+  "description": "Get list posts",
+  "currentScene": "success",
+  "proxyConfig": {},
+  "uniqId": "096a8f47-4fd6-4e30-a7d7-8e43cddb2bb3",
+  "groupUniqId": "8b323c31-ca0f-42b9-8f1c-57306624684c"
+}
